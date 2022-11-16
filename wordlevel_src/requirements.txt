@@ -48,7 +48,7 @@ natsort==7.1.0
 nbconvert==5.6.1
 nbformat==5.0.5
 notebook==6.0.3
-numpy==1.18.2
+numpy==1.22.2
 oauthlib==3.1.0
 opencv-contrib-python==4.2.0.34
 opencv-python==4.2.0.34
@@ -58,7 +58,7 @@ pandocfilters==1.4.2
 parso==0.6.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==9.2.0
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.11.3
@@ -104,3 +104,4 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
