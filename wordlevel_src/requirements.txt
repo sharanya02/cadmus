@@ -31,7 +31,7 @@ ipywidgets==7.5.1
 itsdangerous==1.1.0
 jedi==0.16.0
 Jinja2==2.11.1
-joblib==0.14.1
+joblib==1.1.1
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.2
@@ -48,7 +48,7 @@ natsort==7.1.0
 nbconvert==5.6.1
 nbformat==5.0.5
 notebook==6.0.3
-numpy==1.18.2
+numpy==1.22.2
 oauthlib==3.1.0
 opencv-contrib-python==4.2.0.34
 opencv-python==4.2.0.34
@@ -80,7 +80,7 @@ QtPy==1.9.0
 requests==2.23.0
 requests-oauthlib==1.3.0
 rsa==4.0
-scikit-learn==0.22.2.post1
+scikit-learn==0.24.2.post1
 scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
