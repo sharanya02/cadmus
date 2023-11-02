@@ -93,14 +93,14 @@ tensorflow-estimator==2.3.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.4
+tornado==6.3.3
 tqdm==4.55.1
 traitlets==4.3.3
 typeguard==2.10.0
 urllib3==1.25.8
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.1.0
