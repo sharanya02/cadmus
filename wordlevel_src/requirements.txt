@@ -80,7 +80,7 @@ QtPy==1.9.0
 requests==2.23.0
 requests-oauthlib==1.3.0
 rsa==4.0
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.0
 scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
@@ -93,7 +93,7 @@ tensorflow-estimator==2.3.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.4
+tornado==6.4.1
 tqdm==4.55.1
 traitlets==4.3.3
 typeguard==2.10.0
