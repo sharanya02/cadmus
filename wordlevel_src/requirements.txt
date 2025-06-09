@@ -36,7 +36,7 @@ jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.2
 jupyter-console==6.1.0
-jupyter-core==4.6.3
+jupyter-core==5.8.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
