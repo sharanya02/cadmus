@@ -72,7 +72,7 @@ pyrsistent==0.16.0
 pyshine==0.0.3
 python-dateutil==2.8.1
 python-engineio==3.13.2
-python-socketio==4.6.0
+python-socketio==5.14.0
 pytz==2019.3
 pyzmq==19.0.0
 qtconsole==4.7.2
